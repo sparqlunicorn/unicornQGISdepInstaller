@@ -18,7 +18,8 @@ The following Python dependencies need to be installed:
 * [https://github.com/gweis/isodate](isodate)
 
 To install dependencies on Linux refer to the following steps:
-* Install the SPARQLWrapper dependency using pip: 
+
+Install the SPARQLWrapper dependency using pip: 
 * pip install SPARQLWrapper
 
 
