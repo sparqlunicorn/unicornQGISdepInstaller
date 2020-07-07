@@ -13,9 +13,9 @@ We provide installers for different versions of QGIS beginning with QGIS 3.10
 
 The following Python dependencies need to be installed:
 
-* [https://rdflib.github.io/sparqlwrapper/](SPARQLWrapper)
-* [https://github.com/RDFLib/rdflib](rdflib) (modified version provided by us)
-* [https://github.com/gweis/isodate](isodate)
+* [SPARQLWrapper](https://rdflib.github.io/sparqlwrapper/)
+* [rdflib](https://github.com/RDFLib/rdflib) (modified version provided by us)
+* [isodate](https://github.com/gweis/isodate)
 
 To install dependencies on Linux refer to the following steps:
 
